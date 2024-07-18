@@ -5,7 +5,7 @@ INSTALL_DIR="$HOME/.audio-extract"
 VENV_DIR="$INSTALL_DIR/venv"
 SCRIPT_NAME="audio_extract.py"
 WRAPPER_NAME="audio-extract"
-GITHUB_RAW_URL="https://raw.githubusercontent.com/davidmoore-io/audio-extract/main"
+GITHUB_RAW_URL="https://raw.githubusercontent.com/davidmoore-io/audio-extract/master"
 
 # Create installation directory
 mkdir -p "$INSTALL_DIR"
